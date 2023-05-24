@@ -4,10 +4,8 @@
 
 ## What I learned:
 
-<ul>
-<li>Servers and clients</li>
-<li>Requests/Response</li>
-<li>APIs</li>
-<li>JSON</li>
-<li>fetch</li>
-</ul>
+- Servers and clients
+- Requests/Response
+- APIs
+- JSON
+- fetch
